@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     align-items: center;">
-	<img src="ironman.jpg" alt="Gif" width="300"/>
+	<img src="ironman.jpg" alt="Gif" width="600"/>
   </div>
 <!---
 MohammedNayeem9/MohammedNayeem9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
